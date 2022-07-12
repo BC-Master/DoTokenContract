@@ -1,2 +1,2 @@
-# Contracts Demo
+# Contracts
 Smart Contracts for Smart Ecosystem
